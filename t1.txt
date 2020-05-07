@@ -3,3 +3,4 @@
 ###
 05.05.2020
 this line was added in BAR
+this line was added in FOO
